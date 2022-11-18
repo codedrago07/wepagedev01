@@ -1,0 +1,23 @@
+html {
+  font-size: 22px;
+  font-style: normal;
+}
+body {
+  background-color: rgb(64, 63, 63);
+  color: rgb(234, 146, 51);
+}
+a {
+  color: rgb(232, 10, 158);
+}
+a:visited {
+  color: rgb(20, 235, 235);
+}
+a:hover,
+a:active {
+  color: rgb(35, 230, 17);
+}
+div {
+  border: 7px slateblue;
+  padding: 2px;
+  border-collapse: collapse;
+}
